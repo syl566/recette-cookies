@@ -1,4 +1,4 @@
 #recette-cookies
-vive les conflits!
+bon appetit
 # recette-cookies
 # ingredients
